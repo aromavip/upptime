@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sparaku-aroma-romance.com.ico",
     "slug": "frontend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.68%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.68%",
     "time": 682,
-    "timeDay": 777,
-    "timeWeek": 738,
-    "timeMonth": 698,
+    "timeDay": 0,
+    "timeWeek": 757,
+    "timeMonth": 703,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-25": 59,
+      "2024-08-24": 1021
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sparaku-aroma-romance.com.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.68%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.68%",
     "time": 3287,
-    "timeDay": 3131,
-    "timeWeek": 3753,
-    "timeMonth": 3351,
+    "timeDay": 0,
+    "timeWeek": 3967,
+    "timeMonth": 3370,
     "timeYear": 3287,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-25": 59,
+      "2024-08-24": 1021
     }
   }
 ]
