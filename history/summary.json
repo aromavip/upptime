@@ -4,7 +4,7 @@
     "url": "https://www.sparaku-aroma-romance.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sparaku-aroma-romance.com.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 904,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2025-01-21": 0,
       "2024-08-25": 479,
       "2024-08-24": 1021
     }
@@ -25,7 +26,7 @@
     "url": "https://www.sparaku-aroma-romance.com/api/v1/cast",
     "icon": "https://icons.duckduckgo.com/ip3/www.sparaku-aroma-romance.com.ico",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 2922,
     "timeYear": 3145,
     "dailyMinutesDown": {
+      "2025-01-21": 0,
       "2024-08-25": 479,
       "2024-08-24": 1021
     }
